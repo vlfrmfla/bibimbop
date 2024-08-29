@@ -1,7 +1,7 @@
 import streamlit as st
 
 # 앱 페이지 레이아웃 설정
-st.set_page_config(page_title="비빔밥", layout="wide")
+st.set_page_config(page_title="세대-잇다", layout="wide")
 
 # 이모티콘과 제목을 함께 사용하여 앱 메인 제목 설정
 st.title("'세대-잇다'")
