@@ -94,6 +94,7 @@ search_word = st.text_input("🔍 신조어 검색 (초성 및 일반 검색 지
 # 고정된 유튜브 링크 딕셔너리 (키워드와 유튜브 링크 매칭)
 fixed_youtube_links = {
     "갓띵작": "https://youtube.com/shorts/fszBquMocC4?si=d2gSp2eZ5xzvHHs0",
+    "추구미": "https://youtube.com/shorts/drUgTiltRpw?si=xGhIyyXRsIqycdXM"
     # 여기에 추가적인 키워드와 링크를 넣으세요
 }
 
