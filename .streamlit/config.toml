@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#1F618D"  # 다크 블루 그레이 색상
+backgroundColor="#2C3E50"  # 다크 그레이 색상
+secondaryBackgroundColor="#34495E"  # 라이트 다크 그레이 색상
+textColor="#ECF0F1"  # 밝은 회색 (거의 흰색)
+font="sans serif"
